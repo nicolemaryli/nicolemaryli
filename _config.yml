@@ -1,0 +1,45 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Nicole Rios Portfolio
+email: nicolemaryli.ux@gmail.com
+description: "UX Design. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+
+- name: Nicole Rios
+  pic: 2
+  position: UX Designer
+  social:
+    - title: twitter
+      url: #
+    - title: envelope
+      mailto: nicolemaryli.ux@gmail.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolemarylirios/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/0nios
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/nicolemaryli
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,17 @@
+---
+title: Earicle
+subtitle: 2 Day UX Challenge
+layout: default
+modal-id: 1
+date: 2018-04-04
+img: earicle.png
+thumbnail: earicle-thumbnail.png
+alt: image-alt
+project-date: March 2019
+client: Earicle
+category: UX Case Study
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+
+---
+
