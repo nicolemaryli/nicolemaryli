@@ -7,8 +7,8 @@ date: 2014-07-17
 img: dentma.png
 thumbnail: Dentma-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2019
+client: Brandon Janis
 category: Web Development
-description: Earicle is a new assisted hearing device that is going to change your llfe! Look your conversation partner in the eye while wearing one Earicle to hear what they are REALLY thinking. It's probably fair enough to say that this was an April Fools project at GA. It was our first time working with developers. A 2-day sprint that was a lot of fun. 
+description: This client project was a 3-week sprint, and our captsone project at GA. We met remote with our client hoping to improve his product before it went out to market. 
 ---
