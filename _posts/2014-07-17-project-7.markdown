@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
-"Earicle is a new assisted hearing device that is going to change your llfe! Look your conversation partner in the eye while wearing one Earicle to hear what they are REALLY thinking." ITs probably fair enough to say that this was an April Fools project at GA. It was our first time working with developers. A 2-day sprint that was a lot of fun. 
+description: Earicle is a new assisted hearing device that is going to change your llfe! Look your conversation partner in the eye while wearing one Earicle to hear what they are REALLY thinking. It's probably fair enough to say that this was an April Fools project at GA. It was our first time working with developers. A 2-day sprint that was a lot of fun. 
 ---
