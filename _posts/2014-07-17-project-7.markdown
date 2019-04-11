@@ -9,6 +9,6 @@ thumbnail: Dentma-thumbnail.png
 alt: image-alt
 project-date: March 2019
 client: Brandon Janis
-category: UX Research, Usability Testing, & Re-design
+category: UX Research, Usability Testing, & Interface Re-design
 description: This client project was a 3-week sprint, and our captsone project at GA. We met remote with our client hoping to improve his product before it went out to market. 
 ---
