@@ -3,19 +3,19 @@
   <channel>
     <title>Nicole Rios Portfolio</title>
     <description>UX Design. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4444/agency-jekyll-theme//</link>
-    <atom:link href="http://localhost:4444/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Thu, 11 Apr 2019 13:44:49 -0700</pubDate>
     <lastBuildDate>Thu, 11 Apr 2019 13:44:49 -0700</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Earicle</title>
         <description>
 </description>
         <pubDate>Wed, 04 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4444/agency-jekyll-theme//ux%20sprint/2018/04/04/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4444/agency-jekyll-theme//ux%20sprint/2018/04/04/project-2/</guid>
+        <link>http://localhost:4000//ux%20sprint/2018/04/04/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000//ux%20sprint/2018/04/04/project-2/</guid>
         
         
         <category>UX Sprint</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:4444/agency-jekyll-theme//ux%20research,%20usability%20testing,%20&%20interface%20re-design/2014/07/17/project-7/</link>
-        <guid isPermaLink="true">http://localhost:4444/agency-jekyll-theme//ux%20research,%20usability%20testing,%20&%20interface%20re-design/2014/07/17/project-7/</guid>
+        <link>http://localhost:4000//ux%20research,%20usability%20testing,%20&%20interface%20re-design/2014/07/17/project-7/</link>
+        <guid isPermaLink="true">http://localhost:4000//ux%20research,%20usability%20testing,%20&%20interface%20re-design/2014/07/17/project-7/</guid>
         
         
         <category>UX Research, Usability Testing, &amp; Interface Re-design</category>
