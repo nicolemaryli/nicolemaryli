@@ -12,6 +12,9 @@ client: Earicle
 category: UX Sprint
 description: Earicle is a new assisted hearing device that is going to change your llfe! Look your conversation partner in the eye while wearing one Earicle to hear what they are REALLY thinking. It's probably fair enough to say that this was an April Fools project at GA. It was our first time working with developers. A 2-day sprint that was a lot of fun.
 discovery: Whenever a new project is given, there is so much going on that it’s hard to unravel or digest all of the messiness until the project is over. Hopefully because I’ve gone through the process, I can share what I have learned in an easily digestable way for you. <br> For this projecet, we were given most of the research results upfront. It was simply an opportunity to take what was given us, and create a website focusing on the goal of having users sign up for emails where they can learn more. This is the prompt we were given from our instructors…
+exploration: sufffffff Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+design: stuffffff 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+reflection: stuffffff 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ---
 
