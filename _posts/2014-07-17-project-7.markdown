@@ -11,4 +11,5 @@ project-date: March 2019
 client: Brandon Janis
 category: UX Research, Usability Testing, & Interface Re-design
 description: This client project was a 3-week sprint, and our captsone project at GA. We met remote with our client hoping to improve his product before it went out to market. 
+discovery: Our client was in UT, so we had to speak with him via Zoom. He told us that Treatment Coordinators don’t have enough time to keep up with clients, and they often loose them. With his new patient management system plug-in, Treatment Coordinators would be able to use a Bot to automatically follow up with new leads and potential clients for follow up appointments.
 ---
